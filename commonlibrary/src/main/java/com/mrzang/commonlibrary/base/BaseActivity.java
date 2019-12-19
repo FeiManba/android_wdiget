@@ -1,4 +1,4 @@
-package com.mrzang.android_widget.base;
+package com.mrzang.commonlibrary.base;
 
 import android.graphics.Color;
 import android.os.Bundle;

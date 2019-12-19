@@ -1,4 +1,4 @@
-package com.mrzang.android_widget.dialog;
+package com.mrzang.commonlibrary.dialog;
 
 import android.app.Dialog;
 import android.content.Context;
